@@ -1,8 +1,9 @@
 # PM-Accelerator-AI-Engineer-Intern---AI-ML-Gen-AI-Development-Tech-Assessment-For-Data-Scientist
-PM Accelerator AI Engineer Technical Assessment for Data Scientist/Analyst
-My name is Saptorshee Nag, applicant for the AI Engineer Intern - AI/ML/Gen AI Development Position. In this Google Colab notebook I have performed the advanced tech assessment on the Global Weather Repository dataset. I have written the code and added comments explaining each line of code. I have also explained the data cleaning, EDA, forecasting models, advanced analyses, and insights in a well-organized format.
 
-You can open the "PM Accelerator AI Engineer Intern - AI/ML/Gen AI Development Tech Assessment For Data Scientists/Analyst.ipynb" file in Google Colab notebook to see the presentation of the detailed data analysis process I have performed on the Global Weather Repository Dataset. It consists of the following sections:
+This project analyzes a global weather dataset to forecast temperature trends, detect anomalies, and study climate patterns using machine learning and data science techniques. The workflow includes data cleaning, exploratory analysis (EDA), forecasting models, and advanced climate insights. Key findings show that pressure and humidity significantly influence temperature, air pollution correlates with weather conditions, and global temperature variations align with expected climate zones. The study provides valuable insights for climate monitoring, disaster preparedness, and environmental planning.
+
+You can open the "PM Accelerator AI Engineer Intern - AI/ML/Gen AI Development Tech Assessment For Data Scientists/Analyst.ipynb" file in Google Colab notebook to see the presentation of the detailed data analysis process I have performed on the Global Weather Repository Dataset. This project explores global weather trends using a dataset with over 40 weather-related features, applying machine learning, anomaly detection, and spatial analysis to uncover insights. The study follows a structured approach:
+
 1. Data Cleaning
 2. Exploratory Data Analysis
    2.1 Interpretation from the EDA
@@ -27,3 +28,5 @@ You can open the "PM Accelerator AI Engineer Intern - AI/ML/Gen AI Development T
      4.5.1 Steps Taken
      4.5.2 Key insights from the Analysis
      4.5.3 Final Conclusion
+
+All of the data cleaning, EDA, forecasting models, advanced analyses, and insights have been performed and displayed with detailed visualizations, graphs and heatmaps. The outputs have already been generated. 
