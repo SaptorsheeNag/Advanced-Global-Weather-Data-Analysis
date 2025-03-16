@@ -1,4 +1,4 @@
-# PM-Accelerator-AI-Engineer-Intern---AI-ML-Gen-AI-Development-Tech-Assessment-For-Data-Scientist
+# Advanced Global Weather Data Analysis
 
 This project analyzes a global weather dataset to forecast temperature trends, detect anomalies, and study climate patterns using machine learning and data science techniques. The workflow includes data cleaning, exploratory analysis (EDA), forecasting models, and advanced climate insights. Key findings show that pressure and humidity significantly influence temperature, air pollution correlates with weather conditions, and global temperature variations align with expected climate zones. The study provides valuable insights for climate monitoring, disaster preparedness, and environmental planning.
 
