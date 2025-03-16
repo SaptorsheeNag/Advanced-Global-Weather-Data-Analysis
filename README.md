@@ -16,8 +16,9 @@ You can open the "PM Accelerator AI Engineer Intern - AI/ML/Gen AI Development T
      4.2.2 Key Findings from the correlation matrix
      4.2.3 Final Conclusion from the correlation matrix
    4.3 Feature Importance Analysis:
-     4.3.1 Key Influence on Temperature
-     4.3.2 Final Conclusion from Feature Importance Analysis
+     4.3.1 Steps Taken
+     4.3.2 Key Influence on Temperature
+     4.3.3 Final Conclusion from Feature Importance Analysis
    4.4 Spatial Analysis – Geographical Weather Trends
      4.4.1 Steps Taken
      4.4.2 Key insights from the map
